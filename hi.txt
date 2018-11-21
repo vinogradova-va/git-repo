@@ -1,0 +1,3 @@
+print("hi")
+print("how do you do")
+print("egegey")
